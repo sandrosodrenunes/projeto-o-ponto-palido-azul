@@ -44,6 +44,8 @@ section{
     padding-bottom: 10vh;
     font-family: var(--font03);
     font-size: 2vw;
+    text-indent: 20px;
+    text-align: justify;
 }
 section > p{
     line-height: 2em;
