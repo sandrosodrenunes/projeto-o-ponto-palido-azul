@@ -68,6 +68,10 @@ section.imagem#img01{
 section.imagem#img02{
     background-image: url(../imagens/ponto-palido-azul.png);
 }
+
+.area-1, .area-2, .area-3, .area-4, .area-5{
+    visibility: hidden;
+} 
 footer{
     background-color: black;
     padding: 10px;
